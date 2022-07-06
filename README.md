@@ -1,7 +1,7 @@
 # Automated Selenium Testing using Python
 
-This is a workshop i did to better myself using Python and to greater understand automation testing
-webinar hosted by [Andy](https://www.linkedin.com/in/andysinpetrean/)
+- This is a workshop i did to better myself using Python and to greater understand automation testing 
+- webinar hosted by [Andy](https://www.linkedin.com/in/andysinpetrean/)
 
 ## libraries imported
 
